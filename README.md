@@ -1,4 +1,4 @@
-# monerochan.rs
+# monachan.org
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 > **THE RISC-V PRIVATE PROVING RUNTIME**
 
-**MONEROCHAN.RS** is a **privacy runtime** for executing **RISC-V programs** under **verifiable confidentiality**.  
+**MONACHAN.ORG** is a **privacy runtime** for executing **RISC-V programs** under **verifiable confidentiality**.  
 It uses **zkSNARK-based proof generation** to prove correct execution of programs without exposing inputs, state, or outputs.  
 
 Inspired by **Monero** and **Zcash**, it extends privacy from *payments* to *computation*, enabling developers to build systems that are both **trustless** and **confidential**.
@@ -37,7 +37,7 @@ There is no open, general-purpose framework for **private, verifiable computatio
 
 ### The Solution
 
-**MONEROCHAN.RS** introduces a **RISC-V privacy runtime** that combines:
+**MONACHAN.ORG** introduces a **RISC-V privacy runtime** that combines:
 - **Deterministic program execution**, ensuring verifiable reproducibility.  
 - **zkSNARK-based proofs**, guaranteeing correctness without revealing data.  
 - **Optimized cryptographic precompiles**, enabling real-world performance for privacy workloads.  
@@ -48,12 +48,12 @@ This architecture allows developers to build applications such as:
 - **Private DeFi** — enable on-chain logic without revealing user state.  
 - **Confidential rollups and bridges** — bridge ecosystems with strong privacy guarantees.  
 
-MONEROCHAN.RS extends privacy from **value** to **computation**, forming the foundation for a new class of decentralized, private applications.
+MONACHAN.ORG extends privacy from **value** to **computation**, forming the foundation for a new class of decentralized, private applications.
 
 ## Getting Started
 
 - **Example Template**: [monerochan-project-template](https://github.com/Monero-Chan-Foundation/monerochan-project-template) — Get started with a ready-to-use project template
-- **Published Crates**: [crates.io/users/monerochanorg](https://crates.io/users/monerochanorg) — View all published MONEROCHAN.RS crates
+- **Published Crates**: [crates.io/users/monerochanorg](https://crates.io/users/monerochanorg) — View all published MONACHAN.ORG crates
 
 ## Architecture
 
@@ -76,7 +76,7 @@ MONEROCHAN.RS extends privacy from **value** to **computation**, forming the fou
 
 ## Performance
 
-MONEROCHAN.RS achieves **order-of-magnitude performance improvements** for privacy workloads through optimized arithmetic and RISC-V precompiles.  
+MONACHAN.ORG achieves **order-of-magnitude performance improvements** for privacy workloads through optimized arithmetic and RISC-V precompiles.  
 The runtime is engineered for:
 - Private rollups and bridges  
 - Privacy-preserving DeFi  
@@ -85,10 +85,7 @@ The runtime is engineered for:
 
 [ico-website]: https://img.shields.io/website?up_color=blue&up_message=monero-chan&url=https%3A%2F%2Fmonero-chan.org
 [ico-twitter]: https://img.shields.io/badge/@MoneroChanSOL-1DA1F2.svg?style=flat-square&logo=x&label=Twitter
-[ico-discord]: https://img.shields.io/badge/Discord-5865F2.svg?style=flat-square&logo=discord&label=Discord
-[ico-telegram]: https://img.shields.io/badge/@MoneroChanSOL-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram
 
-[link-website]: https://monero-chan.org/
-[link-twitter]: https://twitter.com/MoneroChanSOL
-[link-discord]: https://discord.gg/H7S5S9SEdZ
-[link-telegram]: https://t.me/MoneroChanSOL
+[link-website]: https://monachan.org/
+[link-twitter]: https://twitter.com/MonaChanSOL
+
