@@ -49,7 +49,7 @@ MONACHAN.ORG extends privacy from **value** to **computation**, forming the foun
 
 ## Getting Started
 
-- **Example Template**: [monachan-project-template](https://github.com/Monero-Chan-Foundation/monerochan-project-template) — Get started with a ready-to-use project template
+- **Example Template**: [monachan-project-template](https://github.com/MonachanFoundation/monerochan-project-template) — Get started with a ready-to-use project template
 
 ## Architecture
 
@@ -84,6 +84,7 @@ The runtime is engineered for:
 
 [link-website]: https://monachan.org/
 [link-twitter]: https://twitter.com/MonaChanSOL
+
 
 
 
