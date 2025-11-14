@@ -6,8 +6,6 @@
 
 [![Website][ico-website]][link-website]
 [![Twitter][ico-twitter]][link-twitter]
-[![Discord][ico-discord]][link-discord]
-[![Telegram][ico-telegram]][link-telegram]
 ![GitHub top language](https://img.shields.io/github/languages/top/Monero-Chan-Foundation/monerochan.rs)
 
 </div>
@@ -88,4 +86,5 @@ The runtime is engineered for:
 
 [link-website]: https://monachan.org/
 [link-twitter]: https://twitter.com/MonaChanSOL
+
 
